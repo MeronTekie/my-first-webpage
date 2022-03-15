@@ -1,0 +1,18 @@
+h1 {
+  color: rgb(172, 172, 238);
+  font-family: Snell Roundhand, cursive;
+  font-size: 55px;
+}
+body {
+  background-color: #3b3a39;
+  color: rgb(172, 172, 238);
+  font-size: 26px;
+  text-align: center;
+  font-family: Optima, sans-serif;
+  line-height: 200%;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
